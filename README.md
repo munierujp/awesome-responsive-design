@@ -1,6 +1,6 @@
 # awesome-responsive-design
 
-My favorite responsive design website
+My favorite responsive design websites
 
 - [DEV Community](https://dev.to/)
 - [Facebook](https://www.facebook.com/)
